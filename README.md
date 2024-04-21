@@ -1,16 +1,6 @@
 ### Projeto de API com react - Busca de CEP
 
-- **Link do projeto:** :
-
- ![Página Inicial](/public/inicio.png)
-
- ![CEP Buscado](/public/cepbuscado.png)
-
-### Tecnologias usadas no projeto
-
-- **React JS**:  biblioteca JavaScript de código aberto utilizada para construir interfaces de usuário (UI) interativas e reutilizáveis.
-
-- **API**: API da via CEP, que pode ser encontrada no link https://viacep.com.br/ 
+- **Link do projeto:** : https://api-react-girsp541a-janaisa-voltolinos-projects.vercel.app/
 
 ### Como iniciar
 
@@ -33,4 +23,14 @@ ou
 ou
 
 ```yarn run dev```
+
+ ![Página Inicial](/public/inicio.png)
+
+ ![CEP Buscado](/public/cepbuscado.png)
+
+### Tecnologias usadas no projeto
+
+- **React JS**:  biblioteca JavaScript de código aberto utilizada para construir interfaces de usuário (UI) interativas e reutilizáveis.
+
+- **API**: API da via CEP, que pode ser encontrada no link https://viacep.com.br/ 
 
